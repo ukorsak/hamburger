@@ -1,0 +1,30 @@
+{
+  "name": "hamburger-kodilla",
+  "version": "1.0.0",
+  "description": "pierwsze zabawy z gruntem",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukorsak/hamburger.git"
+  },
+  "author": "LKorsak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukorsak/hamburger/issues"
+  },
+  "homepage": "https://github.com/ukorsak/hamburger#readme",
+  "keywords": [
+    "html",
+    "scss",
+    "js"
+  ],
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
